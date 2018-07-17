@@ -61,3 +61,4 @@ This function parses the output of `unoconv --show` to attempt to detect support
 
 `callback` gets the arguments `err` and `result`. `result` is an object containing a collection of supported document types and output formats.
 
+Network for professionals [Soshace](https://soshace.com)
